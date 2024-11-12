@@ -1,1 +1,2 @@
-# Online-learning-plateform-
+📖 Overview
+EduLearn is an online learning platform designed to support learners in Grades 6 to 8, aligned with the Department of Basic Education curriculum. The platform offers teacher-uploaded video lessons, interactive tools, and secure assessments to help learners enhance their skills. EduLearn focuses on providing an engaging, secure, and user-friendly learning experience for primary and junior high school students.
