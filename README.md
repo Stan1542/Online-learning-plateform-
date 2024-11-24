@@ -67,7 +67,12 @@
 - **Broader Grade Support**:  
   Expand the platform to cater to all grades in primary and secondary school.
 
----
+---- ## Contributors
+
+We acknowledge the efforts and contributions of the following team members:
+
+
+- [Team Member 1] https://github.com/NathiShaun
 
 ## 🤝 Acknowledgments
 - Special thanks to our mentors and the hackathon organizers for their guidance and support.
